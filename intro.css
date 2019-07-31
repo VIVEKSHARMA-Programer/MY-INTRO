@@ -3,6 +3,7 @@
   padding:0px;
 }
 .card{
+  display: unset;
   background-color: #f4f3f3;
   width: 350px;
   height: 500px;
